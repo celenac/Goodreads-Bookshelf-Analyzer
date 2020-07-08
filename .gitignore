@@ -1,0 +1,16 @@
+# Folders 
+__pycache__/
+
+# Personal files
+my_goodreads_credentials.txt
+
+# Output files
+bookshelf_books.txt
+genres_breakdown.xlsx
+*.xlsx
+*.txt
+
+# Files used for debugging
+celena-book-results.html
+books_in_bookshelf_data.txt
+raw_data_google_books.txt
